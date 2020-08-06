@@ -1,0 +1,7 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_First_Challenge_7_29_20\bin\Debug\00_First_Challenge_7_29_20.exe.config
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_First_Challenge_7_29_20\bin\Debug\00_First_Challenge_7_29_20.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_First_Challenge_7_29_20\bin\Debug\00_First_Challenge_7_29_20.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_First_Challenge_7_29_20\obj\Debug\00_First_Challenge_7_29_20.csprojAssemblyReference.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_First_Challenge_7_29_20\obj\Debug\00_First_Challenge_7_29_20.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_First_Challenge_7_29_20\obj\Debug\00_First_Challenge_7_29_20.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\00_First_Challenge_7_29_20\obj\Debug\00_First_Challenge_7_29_20.pdb

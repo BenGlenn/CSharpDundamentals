@@ -1,0 +1,7 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\02_Operators\bin\Debug\02_Operators.exe.config
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\02_Operators\bin\Debug\02_Operators.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\02_Operators\bin\Debug\02_Operators.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\02_Operators\obj\Debug\02_Operators.csprojAssemblyReference.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\02_Operators\obj\Debug\02_Operators.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\02_Operators\obj\Debug\02_Operators.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\02_Operators\obj\Debug\02_Operators.pdb

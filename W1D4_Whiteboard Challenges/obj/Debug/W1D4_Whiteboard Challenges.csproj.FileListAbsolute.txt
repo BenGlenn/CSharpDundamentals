@@ -1,0 +1,7 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Whiteboard Challenges\bin\Debug\W1D4_Whiteboard Challenges.exe.config
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Whiteboard Challenges\bin\Debug\W1D4_Whiteboard Challenges.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Whiteboard Challenges\bin\Debug\W1D4_Whiteboard Challenges.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Whiteboard Challenges\obj\Debug\W1D4_Whiteboard Challenges.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Whiteboard Challenges\obj\Debug\W1D4_Whiteboard Challenges.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Whiteboard Challenges\obj\Debug\W1D4_Whiteboard Challenges.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\W1D4_Whiteboard Challenges\obj\Debug\W1D4_Whiteboard Challenges.csprojAssemblyReference.cache

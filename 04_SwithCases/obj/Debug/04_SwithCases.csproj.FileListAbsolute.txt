@@ -1,0 +1,6 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_SwithCases\bin\Debug\04_SwithCases.exe.config
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_SwithCases\bin\Debug\04_SwithCases.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_SwithCases\bin\Debug\04_SwithCases.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_SwithCases\obj\Debug\04_SwithCases.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_SwithCases\obj\Debug\04_SwithCases.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_SwithCases\obj\Debug\04_SwithCases.pdb
