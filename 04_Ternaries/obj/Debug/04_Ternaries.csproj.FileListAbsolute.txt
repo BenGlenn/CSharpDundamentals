@@ -1,7 +1,6 @@
 C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Ternaries\bin\Debug\04_Ternaries.exe.config
 C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Ternaries\bin\Debug\04_Ternaries.exe
 C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Ternaries\bin\Debug\04_Ternaries.pdb
-C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Ternaries\obj\Debug\04_Ternaries.csprojAssemblyReference.cache
 C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Ternaries\obj\Debug\04_Ternaries.csproj.CoreCompileInputs.cache
 C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Ternaries\obj\Debug\04_Ternaries.exe
 C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\04_Ternaries\obj\Debug\04_Ternaries.pdb

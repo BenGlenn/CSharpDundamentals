@@ -101,6 +101,7 @@ update IsFamilyFriendly to use the Getter and the Maturity Rating
     {
         G,
         PG,
+        TV_Y,
         PG13,
         R,
         NC17,

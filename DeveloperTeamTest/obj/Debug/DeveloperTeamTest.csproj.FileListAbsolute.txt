@@ -1,0 +1,16 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\obj\Debug\DeveloperTeamTest.csprojAssemblyReference.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\obj\Debug\DeveloperTeamTest.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\DeveloperTeamTest.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\DeveloperTeamTest.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\DeveloperTeamPart_01.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\DeveloperTeamPart_01.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\obj\Debug\DeveloperTeamTest.csproj.CopyComplete
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\obj\Debug\DeveloperTeamTest.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamTest\obj\Debug\DeveloperTeamTest.pdb

@@ -6,28 +6,21 @@ using System.Threading.Tasks;
 
 namespace DeveloperTeamPart_01
 {
-    class DeveloperTeamRepository
+    public class DeveloperRepository
     {
-        public List<Developer> _developerContents = new List<Developer>();
-        //CRUD
-        //Create 
-        public void AddContentToDirectory(Developer content) 
+        //This holds the list of teams//
+        public List<DeveloperTeams> _developerTeams = new List<DeveloperTeams>();
+
+        //This adds to the list of teams//
+        public void AddContentToDeveloperTeams(DeveloperTeams content)
         {
-            _developerContents.Add(content);
+            _developerTeams.Add(content);
         }
 
-        public List<TeamVikings> _teamVikingsContents = new List<TeamVikings>();
-       
-        public void AddContentToDirectory(TeamVikings content)
+        //This gives the abilty to find a time by ID//
+        public DeveloperTeams GetTeamInfo(double teamId)
         {
-            _teamVikingsContents.Add(content);
-        }
-
-        // My thought process... foreach item in the list of TeamVikings if that item matches the ID number of the developerID get that item or else return nothing 
-
-       public TeamVikings GetTeamInfo(int teamId)
-        {
-            foreach (TeamVikings item in _teamVikingsContents)
+            foreach (DeveloperTeams item in _developerTeams)
             {
                 if (item.TeamID == teamId)
                 {
@@ -36,6 +29,16 @@ namespace DeveloperTeamPart_01
             }
             return null;
         }
+
+        public bool RemoveTeamById(DeveloperTeams teamId)
+        {
+            bool removed = _developerTeams.Remove(teamId);
+            return removed;
+        }
+
+
+
+
     }
 }
 

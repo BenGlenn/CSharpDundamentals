@@ -4,67 +4,71 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _00_VariablesAndValueTypes //
+namespace _00_VariablesAndValueTypes
 {
-    // basic type with a spicific amount of shit 
-    enum PastryType { Cake, Cupcake, Eclaire }
-
     class Program
     {
         static void Main(string[] args)
         {
-            //Booleans
+            // Booleans
             // Declaration - type name;
             bool isDeclared;
 
-            //Assigning a value. The = is always an assignment To == is equality 
+            // Assigning a value
             isDeclared = true;
 
-            // Declaring  it and assigning and initial value
-            bool isDeclaratinAndInitialized = false;
+            // Declaring and assigning an initial value
+            bool isDeclarationAndInitialized = false;
 
-            // logic that might lead to ture... 
-            isDeclaratinAndInitialized = true;
+            isDeclarationAndInitialized = true;
+
 
             // Characters
             char letter = 'a';
-            // string name = "Benny"
             char symbol = '?';
             char number = '7';
             char space = ' ';
-            char specialCharacter = '\'';
+            char specialCharacter = '\n';
 
-            // n means new line 
-
+            Console.WriteLine(number / 5);
 
 
             // Whole Numbers
             byte byteExample = 255;
-            sbyte signByte = -128;
+            sbyte signedByte = -128;
             short shortExample = 32767;
+            Int16 anotherShortExample = -32000;
             int intMin = -2147483648;
-            uint tunsightedInt = 4000000000;
+            uint unsignedInt = 4000000000;
+            Int32 intMax = 2147483647;
             long longExample = 9223372036854775807;
 
-            Console.WriteLine(longExample = 1); //this will cause and overflow thing to happen//
+            Console.WriteLine(longExample + 1);
 
-            // Decimals this is for percesion... what the hell does that mean Ben... Beats the hell out of me :-)
+            // Decimals
+            float floatExample = 2147483641.320561408513f;
+            double doubleExample = 2147483641.320561408513d;
+            decimal decimalExample = 2147483641.320561408513m;
 
-            float floatExample = 1.320561408513f;
-            double doubleEample = 1.320561408513d;
-            decimal decimalExample = 1.320561408513m;
+            Console.WriteLine(floatExample);
+            Console.WriteLine(doubleExample);
+            Console.WriteLine(decimalExample);
 
-            // Structs is an objec that has a little more info... has extra funtionality... they have a default value... 
 
+            // Structs
             DateTime today = DateTime.Today;
             DateTime tomorrow = new DateTime(2020, 7, 28);
 
 
-            // Enums there are a few built in Enums 
+            // Enums
+            PastryType myPastry = PastryType.Cake;
+            PastryType anotherOne = PastryType.Eclaire;
 
-            PastryType myPastery = PastryType.Cake;
+            DayOfWeek dayOfWeek = DayOfWeek.Tuesday;
 
-            Console.WriteLine(specialCharacter);
+            Console.ReadLine();
         }
     }
+
+    enum PastryType { Cake, Cupcake, Eclaire }
 }

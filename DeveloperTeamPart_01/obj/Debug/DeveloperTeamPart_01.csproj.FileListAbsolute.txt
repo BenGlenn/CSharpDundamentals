@@ -1,0 +1,6 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamPart_01\obj\Debug\DeveloperTeamPart_01.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamPart_01\obj\Debug\DeveloperTeamPart_01.csprojAssemblyReference.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamPart_01\bin\Debug\DeveloperTeamPart_01.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamPart_01\bin\Debug\DeveloperTeamPart_01.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamPart_01\obj\Debug\DeveloperTeamPart_01.dll
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\DeveloperTeamPart_01\obj\Debug\DeveloperTeamPart_01.pdb

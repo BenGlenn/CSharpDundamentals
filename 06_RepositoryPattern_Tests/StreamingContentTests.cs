@@ -1,5 +1,6 @@
 ﻿using System;
 using _06_RepositoryPattern_Repository;
+using _06_RepositoryPattern_Repository.Content;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace _06_RepositoryPattern_Tests
@@ -25,20 +26,17 @@ namespace _06_RepositoryPattern_Tests
 
         [DataTestMethod]
         [DataRow(MaturityRating.G, true)]
-        [DataRow(MaturityRating.PG, true)]
-        [DataRow(MaturityRating.PG13, false)]
         [DataRow(MaturityRating.R, false)]
-       
-
-
         public void SetMaturityRating_ShouldGetCorrectIsFamilyFriend(MaturityRating rating, bool expectedFamilyFriendly)
         {
+            // Arrange
             StreamingContent content = new StreamingContent();
+
+            // Act
             content.MaturityRating = rating;
 
+            // Assert
             Assert.AreEqual(expectedFamilyFriendly, content.IsFamilyFriendly);
-
         }
-
     }
 }

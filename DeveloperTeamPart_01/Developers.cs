@@ -35,27 +35,42 @@ namespace DeveloperTeamPart_01
 
     }
       
-    public class TeamVikings 
+    public class DeveloperTeams 
     {
-        public TeamVikings(string teamName, int teamId, List<TeamVikings> onTheTeams) 
+        public DeveloperTeams() { }
+        public DeveloperTeams(string teamName, double teamId, OnTheTeam onTheTeams) 
           
         {
             TeamName = teamName;
             TeamID = teamId;
-            WhoOnTeam = onTheTeams;
+            OnTeam = onTheTeams;
         }
 
         public string TeamName { get; set; }
-        public int TeamID { get; set; }
-        public List<TeamVikings> WhoOnTeam { get; set; }
+        public double TeamID { get; set; }
+        public OnTheTeam OnTeam { get; set; }
            
                
        
-    }      
-          
-      
-        
+    }
+
+
+    public enum OnTheTeam
+    {
+        Ted,
+        Bill,
+        Jan,
+        Beth,
+        Nancy,
+        Will,
+        Lamar,
        
+    }
+
+
+
+
+
 
 
 }

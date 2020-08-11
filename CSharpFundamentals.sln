@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Classes", "03_Classes\03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Practice_Bassics_7_29_20", "00_Practice_Bassics_7_29_20\00_Practice_Bassics_7_29_20.csproj", "{FD7CD398-6FA4-426C-8903-187F1B7FA267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_First_Challenge_7_29_20", "00_First_Challenge_7_29_20\00_First_Challenge_7_29_20.csproj", "{C03C56E8-6D6D-4F2F-8404-717AF957F061}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_BenPersonalChallenges", "00_First_Challenge_7_29_20\00_BenPersonalChallenges.csproj", "{C03C56E8-6D6D-4F2F-8404-717AF957F061}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_IfElseStatements", "04_IfElseStatements\04_IfElseStatements.csproj", "{84C0CD7A-6B15-493B-A84C-7A25090F203A}"
 EndProject
@@ -34,6 +34,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperTeamPart_01", "DeveloperTeamPart_01\DeveloperTeamPart_01.csproj", "{37A3551C-190C-40E6-B35E-07C7894079CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_StreamingContent_ConsoleUI", "08_StreamingContent_ConsoleUI\08_StreamingContent_ConsoleUI.csproj", "{53AB79C3-42E1-4DE2-8F7E-3955F6E3A936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Interfaces_Introduction", "09_Interfaces_Introduction\09_Interfaces_Introduction.csproj", "{7FA223AD-ABF6-4E84-9131-23611E2EFAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperTeamTest", "DeveloperTeamTest\DeveloperTeamTest.csproj", "{AD5AA198-2889-4132-B02A-B0F024A47D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Interfaces_WorkignWithDI", "09_Interfaces_WorkignWithDI\09_Interfaces_WorkignWithDI.csproj", "{F1186A5B-9711-4F1B-A003-F70CB2F5AEA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_StreamingContent_UITests", "08_StreamingContent_UITests\08_StreamingContent_UITests.csproj", "{55A6F56E-2315-4049-87E7-D2F3B6FEEB53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +113,22 @@ Global
 		{53AB79C3-42E1-4DE2-8F7E-3955F6E3A936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53AB79C3-42E1-4DE2-8F7E-3955F6E3A936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53AB79C3-42E1-4DE2-8F7E-3955F6E3A936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA223AD-ABF6-4E84-9131-23611E2EFAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA223AD-ABF6-4E84-9131-23611E2EFAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA223AD-ABF6-4E84-9131-23611E2EFAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA223AD-ABF6-4E84-9131-23611E2EFAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5AA198-2889-4132-B02A-B0F024A47D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5AA198-2889-4132-B02A-B0F024A47D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5AA198-2889-4132-B02A-B0F024A47D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5AA198-2889-4132-B02A-B0F024A47D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1186A5B-9711-4F1B-A003-F70CB2F5AEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1186A5B-9711-4F1B-A003-F70CB2F5AEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1186A5B-9711-4F1B-A003-F70CB2F5AEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1186A5B-9711-4F1B-A003-F70CB2F5AEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A6F56E-2315-4049-87E7-D2F3B6FEEB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A6F56E-2315-4049-87E7-D2F3B6FEEB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A6F56E-2315-4049-87E7-D2F3B6FEEB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A6F56E-2315-4049-87E7-D2F3B6FEEB53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

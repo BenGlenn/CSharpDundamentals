@@ -11,54 +11,49 @@ namespace _06_RepositoryPattern_Tests
         private StreamingContentRepository _repo;
         private StreamingContent _content;
 
+        [TestInitialize]
         public void Arrange()
         {
             _repo = new StreamingContentRepository();
-            _content = new StreamingContent("rubber", "A car tyre comes to life with the power to make people expolde and goes on a murderous rampage through the California desert.", MaturityRating.R, 5.8, 2010, GenreType.Thriller);
+            _content = new StreamingContent("Rubber", "A car tyre comes to life with the power to make people explode and goes on a murderous rampage through the Californian desert.", MaturityRating.R, 5.8, 2010, GenreType.Thriller);
 
             _repo.AddContentToDirectory(_content);
-
         }
-
-        [TestMethod]
-        public void DeleteExistingContent_ShouldReturnTrue() { }
-      
-
+          
         [TestMethod]
         public void GetDirectory_ShouldReturnCorrectCollection()
-
-       
         {
-            //Arrange
-            // This will be replaced with our [TestInitialize] method
-            //Arrange();
-
-            //Act
-            bool removeResult = _repo.DeleteExistingContent(_content);
-      
-            // Triple A...
-
-            // Arange --> setting up the playing field
+            // Arrange --> Setting up the playing field
             StreamingContentRepository repo = new StreamingContentRepository();
             StreamingContent orange = new StreamingContent();
             repo.AddContentToDirectory(orange);
 
-            // ACT --> Get or run the code we want to test 
+            // Act --> Get or run the code we want to test
             List<StreamingContent> directory = repo.GetDirectory();
 
             bool directoryHasOrange = directory.Contains(orange);
 
-            // Assert --> Using the assert class to verify the expected outcome
+            // Assert --> Using the Assert class to verify the expected outcome
             Assert.IsTrue(directoryHasOrange);
-       
-
- 
         }
 
         [TestMethod]
+        public void DeleteExistingContent_ShouldReturnTrue()
+        {
+            // Arrange
+            // This will be replaced with our [TestInitialize] method
+            //Arrange();
+
+            // Act
+            bool removeResult = _repo.DeleteExistingContent(_content);
+
+            // Assert
+            Assert.IsTrue(removeResult);
+        }
+
+        [DataTestMethod]
         [DataRow("rubber", true)]
         [DataRow("toy story", false)]
-
         public void DeleteByTitle_ShouldReturnCorrectBool(string title, bool expectedResult)
         {
             // Arrange [TestInitialize]
@@ -66,10 +61,8 @@ namespace _06_RepositoryPattern_Tests
             // Act
             bool actualResult = _repo.DeleteContentByTitle(title);
 
-            // Assert 
+            // Assert
             Assert.AreEqual(expectedResult, actualResult);
         }
-
-        
     }
 }

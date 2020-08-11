@@ -1,0 +1,2 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\08_StreamingContent_UITests\obj\Debug\08_StreamingContent_UITests.csprojAssemblyReference.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\08_StreamingContent_UITests\obj\Debug\08_StreamingContent_UITests.csproj.CoreCompileInputs.cache
